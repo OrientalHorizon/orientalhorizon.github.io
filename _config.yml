@@ -1,3 +1,7 @@
 theme: minima
 title: OrientalHorizon's Blog
 author: Peter Ma
+email: iaknoip@outlook.com
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
