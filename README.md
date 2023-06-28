@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 # OrientalHorizon 的博客
 
 美化先摆烂了，活过这学期再说。
